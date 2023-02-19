@@ -1,2 +1,3 @@
-# UML-catering_information_system_desing
+# Catering
  
+* Project created using UML.
